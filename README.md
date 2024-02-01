@@ -1,49 +1,45 @@
-<p align="center"><a href="https://www.uvdesk.com/en/" target="_blank">
-    <img src="https://s3-ap-southeast-1.amazonaws.com/cdn.uvdesk.com/uvdesk/bundles/webkuldefault/images/uvdesk-wide.svg">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a href="https://www.uvdesk.com/en/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a944ab384940b8dd6621f93d7b9c3774417af8fc991036de574cf7c418416e1f/68747470733a2f2f73332d61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f63646e2e75766465736b2e636f6d2f75766465736b2f62756e646c65732f7765626b756c64656661756c742f696d616765732f75766465736b2d776964652e737667" data-canonical-src="https://s3-ap-southeast-1.amazonaws.com/cdn.uvdesk.com/uvdesk/bundles/webkuldefault/images/uvdesk-wide.svg" style="max-width: 100%;">
 </a></p>
-
-<p align="center">
-    <a href="https://packagist.org/packages/uvdesk/core-framework"><img src="https://poser.pugx.org/uvdesk/core-framework/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/uvdesk/core-framework"><img src="https://poser.pugx.org/uvdesk/core-framework/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/uvdesk/core-framework"><img src="https://poser.pugx.org/uvdesk/core-framework/license.svg" alt="License"></a>
-    <a href="https://gitter.im/uvdesk/core-framework"><img src="https://badges.gitter.im/uvdesk/core-framework.svg" alt="connect on gitter"></a>
+<p align="center" dir="auto">
+    <a href="https://packagist.org/packages/uvdesk/core-framework" rel="nofollow"><img src="https://camo.githubusercontent.com/31d9330f8608af8bc9dc056a0112a30765583c20639c28385177d9466eba914f/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f72652d6672616d65776f726b2f762f737461626c652e737667" alt="最新稳定版本" data-canonical-src="https://poser.pugx.org/uvdesk/core-framework/v/stable.svg" style="max-width: 100%;"></a>
+    <a href="https://packagist.org/packages/uvdesk/core-framework" rel="nofollow"><img src="https://camo.githubusercontent.com/c884f1572f23202d9201aa11666214cec11e968fd6cc67e5a1226ca19e9aad37/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f72652d6672616d65776f726b2f642f746f74616c2e737667" alt="总下载量" data-canonical-src="https://poser.pugx.org/uvdesk/core-framework/d/total.svg" style="max-width: 100%;"></a>
+    <a href="https://packagist.org/packages/uvdesk/core-framework" rel="nofollow"><img src="https://camo.githubusercontent.com/64233b5d55dcaa5d47c8ab4001b291df77662ed8583b9fdd4a688932f6a6a2b3/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f72652d6672616d65776f726b2f6c6963656e73652e737667" alt="执照" data-canonical-src="https://poser.pugx.org/uvdesk/core-framework/license.svg" style="max-width: 100%;"></a>
+    <a href="https://gitter.im/uvdesk/core-framework" rel="nofollow"><img src="https://camo.githubusercontent.com/d69dbc91efdca891101c0bab9a80d971a54ef7800ffd76a07fd59ddbbeae58e2/68747470733a2f2f6261646765732e6769747465722e696d2f75766465736b2f636f72652d6672616d65776f726b2e737667" alt="连接到 gitter" data-canonical-src="https://badges.gitter.im/uvdesk/core-framework.svg" style="max-width: 100%;"></a>
 </p>
-
-The standalone **CoreFrameworkBundle** lies at the heart of the [UVDesk Community][1] helpdesk, providing the core essential functionalities and integration tools to easily integrate any other community helpdesk packages, furhter extending the capabilities of the helpdesk system.
-
-The core framework bundle comes loaded with the following features:
-
-  * **Ticket Query System** - Easily transform your customer queries into tickets
-
-  * **Mailboxes** - Pipeline your support email mailboxes directly into tickets for easy query managment
-
-  * **Email Templates** - Draft your frequent query responses to improve your productivity and minimize response time
-
-  * **User Management System** - Easily manage your support staff members into Admins, Groups & Teams with varying level of system privileges
-
-Installation
---------------
-
-This bundle can be easily integrated into any Symfony application (though it is recommended that you're using [Symfony 4][3], or your project has a dependency on [Symfony Flex][4], as things have changed drastically with the newer Symfony versions). Before continuing, make sure that you're using PHP 7 or higher and have [Composer][5] installed. You also need to ensure that you have the following PHP extensions installed:
-
-  * [PHP IMAP][6]
-  * [PHP Mailparse][7]
-
-To require the core framework bundle into your symfony project, simply run the following from your project root:
-
-```bash
-$ composer require uvdesk/core-framework
-```
-
-License
---------------
-
-The **CoreFrameworkBundle** and libraries included within the bundle are released under the MIT or BSD license.
-
-[1]: https://www.uvdesk.com/
-[2]: https://symfony.com/
-[3]: https://symfony.com/4
-[4]: https://flex.symfony.com/
-[5]: https://getcomposer.org/
-[6]: http://php.net/manual/en/book.imap.php
-[7]: http://php.net/manual/en/book.mailparse.php
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">独立的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CoreFrameworkBundle</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">位于</font></font><a href="https://www.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UVDesk 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助台的核心，提供核心基本功能和集成工具，可以轻松集成任何其他社区帮助台软件包，进一步扩展帮助台系统的功能。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心框架捆绑包具有以下功能：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工单查询系统</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 轻松将客户查询转化为工单</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮箱</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将您的支持电子邮件邮箱直接管道化到票证中，以便于查询管理</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件模板</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 起草您的频繁查询响应，以提高您的工作效率并最大限度地缩短响应时间</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户管理系统</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 轻松将您的支持人员管理为具有不同级别系统权限的管理员、组和团队</font></font></p>
+</li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个包可以轻松集成到任何 Symfony 应用程序中（尽管建议您使用</font></font><a href="https://symfony.com/4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Symfony 4</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，或者您的项目依赖于</font></font><a href="https://flex.symfony.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Symfony Flex</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，因为新的 Symfony 版本情况发生了巨大变化）。</font><font style="vertical-align: inherit;">在继续之前，请确保您使用的是 PHP 7 或更高版本并安装了</font></font><a href="https://getcomposer.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Composer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您还需要确保安装了以下 PHP 扩展：</font></font></p>
+<ul dir="auto">
+<li><a href="http://php.net/manual/en/book.imap.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP IMAP</font></font></a></li>
+<li><a href="http://php.net/manual/en/book.mailparse.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 邮件解析</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要将核心框架捆绑到您的 symfony 项目中，只需从项目根目录运行以下命令：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ composer require uvdesk/core-framework</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ composer require uvdesk/core-framework" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CoreFrameworkBundle和捆绑</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中包含的库是根据 MIT 或 BSD 许可证发布的。</font></font></p>
+</article></div>
